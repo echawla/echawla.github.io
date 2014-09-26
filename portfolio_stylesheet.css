@@ -1,0 +1,27 @@
+h2 {
+	color: red;
+}
+
+h3 {
+	color: orange;
+}
+
+#maintitle {
+	font-size: 60px;
+}
+
+p {
+	background-color: blue;
+}
+
+p {
+	color: white;
+}
+
+p {
+	font-family: "Bookman Old Style";
+}
+
+p {
+	border-style: ridge;
+}
